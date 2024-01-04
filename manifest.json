@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Real Dates for Demos.tf",
+    "version": "1.0",
+    "description": "Replaces all of Demos.tf's relative times with actual dates and times.",
+    "content_scripts": [
+        {
+            "js": [
+                "scripts/content.js"
+            ],
+            "matches": [
+                "https://demos.tf/*"
+            ]
+        }
+    ]
+}
