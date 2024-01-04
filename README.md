@@ -3,8 +3,9 @@
 ## How to install
 
 1.  Go to the extensions tab in chrome
-2.  Click "Load Unpacked" in the top left
-3.  Select the root directory of the extension (the file that contains manifest.json)
+2.  Enable Developer Mode by clicking the toggle switch in the top right
+3.  Click "Load Unpacked" in the top left
+4.  Select the root directory of the extension (the file that contains manifest.json)
 
 Done :)
 
