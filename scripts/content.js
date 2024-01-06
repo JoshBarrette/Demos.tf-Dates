@@ -16,4 +16,3 @@ function updateDates() {
 }
 
 updateDates();
-observer.observe(listBody, config);
